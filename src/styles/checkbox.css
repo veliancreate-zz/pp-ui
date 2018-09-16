@@ -1,0 +1,19 @@
+.checkbox-container {
+  padding: 10px;
+  margin-bottom: 10px;
+  margin-top: 10px;
+  border: 1px solid grey;
+}
+
+.checkbox-container label {
+  padding: 5px;
+}
+
+.checkbox-container label span {
+  padding-left: 5px;
+}
+
+.search-input {
+  margin: 0;
+  width: 100%;
+}

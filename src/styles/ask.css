@@ -1,0 +1,8 @@
+.mp-search {
+  cursor: pointer;
+  padding: 5px 0;
+}
+
+.mp-search:hover {
+  text-decoration: underline;
+}

@@ -1,0 +1,10 @@
+.comments {
+  padding-left: 20px;
+  margin-top: 20px;
+}
+
+.comment {
+  padding-top: 20px;
+  border-top: solid 1px grey;
+  margin-bottom: 20px;
+}
